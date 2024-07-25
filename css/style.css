@@ -378,8 +378,8 @@ button:hover {
   width: 10px;
   height: 10px;
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: -8%;
+  left: 67%;
   transform: translateY(-50%) translateX(-50%);
   border-radius: 50%;
 }
